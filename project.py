@@ -53,3 +53,5 @@ if uploaded_file:
                 st.write(response.text)
     else:
         st.error("Unsupported file type or unable to extract text.")
+
+# Footer
